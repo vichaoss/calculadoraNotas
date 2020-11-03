@@ -1,6 +1,6 @@
 """
 Programa simple para calcular tu nota
-escrito por Vichaoss @
+repo [calculadora de notas](https://github.com/vichaoss/calculadoraNotas)
 """
 
 def calcular_nota(puntajeObtenido=0, notaMinima=1, notaMaxima=7, exigencia=0.6, puntajeMaximo=0):
